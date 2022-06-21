@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "a836bea0fbce4f08",
+    "type": "split",
+    "children": [
+      {
+        "id": "d97fb1fadf10c855",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "人物/奥雷里亚诺-布恩迪亚 上校.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b026fb02c1082344",
+    "type": "split",
+    "children": [
+      {
+        "id": "8fb503721a37da5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10ea63537599ab0b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d365f4d37a9e8e6d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "41dc84efd023264b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9686856f220a98ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3cd1e84bf82b807",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "人物/奥雷里亚诺-布恩迪亚 上校.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d97fb1fadf10c855",
+  "lastOpenFiles": [
+    "人物/奥雷里亚诺-布恩迪亚 上校.md",
+    "人物/何塞-阿尔卡蒂奥-布恩迪亚.md",
+    "人物/梅尔基亚德斯.md",
+    "人物/小何塞-阿尔卡蒂奥.md",
+    "百年孤独-_根据马尔克斯指定版本翻译_未做任何增删_-_加西亚•马尔克斯_-范晔_-_z-lib.org_.pdf",
+    "百年孤独 (加西亚·马尔克斯,范晔) (z-lib.org) (1).pdf"
+  ]
+}
